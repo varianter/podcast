@@ -1,7 +1,7 @@
 {
   "title": "Variant",
-  "link": "https://www.variant.no",
-  "public_episode_baseurl": "https://mib.im/podcast-test/episodes",
+  "link": "https://podcast.variant.no",
+  "public_episode_baseurl": "https://podcast.variant.no/episodes",
   "language": "nb-NO",
   "subtitle": "Interne podcaster for Variant.",
   "author": "Variant",
@@ -10,7 +10,7 @@
     "name": "Variant",
     "email": "post@variant.no"
   },
-  "image": "https://mib.im/podcast-test/assets/podcast.jpg",
+  "image": "https://podcast.variant.no/assets/podcast.jpg",
   "category": ["Company", "Business", "Technology"],
   "keywords": ["variant", "selskasstatus"],
   "explicit": false

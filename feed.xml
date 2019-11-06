@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Variant</title>
-    <link>https://www.variant.no</link>
+    <link>https://podcast.variant.no</link>
     <language>nb-NO</language>
     <copyright>Copyright 2019</copyright>
     <itunes:subtitle>Interne podcaster for Variant.</itunes:subtitle>
@@ -13,11 +13,11 @@
       <itunes:name>Variant</itunes:name>
       <itunes:email>post@variant.no</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://mib.im/podcast-test/assets/podcast.jpg"/>
+    <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
     <image>
-      <url>https://mib.im/podcast-test/assets/podcast.jpg</url>
+      <url>https://podcast.variant.no/assets/podcast.jpg</url>
       <title>Variant</title>
-      <link>https://www.variant.no</link>
+      <link>https://podcast.variant.no</link>
     </image>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:keywords>variant, selskasstatus</itunes:keywords>
