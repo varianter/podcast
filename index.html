@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Variant Podcast</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <hgroup>
+        <h1><img src="./assets/logo.svg" alt="Variant" /></h1>
+        <h2>Podcast</h2>
+      </hgroup>
+
+      <figure class="audioContainer hidden">
+        <figcaption id="title">
+          <h3>Loading...</h3>
+          <p>Loading...</p>
+        </figcaption>
+        <audio id="audio" controls src="./episodes/">
+          Nettleseren din støtter ikke <code>audio</code>-elementet.
+        </audio>
+      </figure>
+
+      <p class="no-episodes">Foreløpig ingen episoder.</p>
+
+      <ul class="episodes"></ul>
+
+      <div class="spaced">
+        <p>
+          <a
+            href="https://medium.com/@joshmuccio/how-to-manually-add-a-rss-feed-to-your-podcast-app-on-desktop-ios-android-478d197a3770"
+            >Se hvordan du kan legge til i din app</a
+          >. Legg til rss:
+          <a href="https://mib.im/podcast-test/feed.xml"
+            >https://mib.im/podcast-test/feed.xml</a
+          >.
+        </p>
+      </div>
+    </main>
+
+    <script>
+      (async function() {
+        let episodesResult = await fetch("./episodes.json");
+        let episodes = await episodesResult.json();
+
+        const audio = document.querySelector("#audio");
+        const title = document.querySelector("#title h3");
+        const desc = document.querySelector("#title p");
+
+        const ul = document.querySelector(".episodes");
+        const url = file => `./episodes/${file}.mp3`;
+
+        if (episodes.length) {
+          document.querySelector(".audioContainer").classList.remove("hidden");
+          document.querySelector(".no-episodes").classList.add("hidden");
+          addInfo(episodes[0]);
+        }
+
+        function addInfo(episode) {
+          audio.src = url(item.filename);
+          title.textContent = item.title;
+          desc.textContent = item.description;
+        }
+
+        function link(item) {
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+
+          const episodeUrl = url(item.filename);
+          a.href = episodeUrl;
+          a.textContent = item.title;
+
+          a.addEventListener("click", function(e) {
+            e.preventDefault();
+            addInfo(item);
+          });
+
+          li.appendChild(a);
+          return li;
+        }
+
+        episodes.map(link).forEach(l => ul.appendChild(l));
+      })();
+    </script>
+  </body>
+</html>

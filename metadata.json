@@ -1,0 +1,17 @@
+{
+  "title": "Variant",
+  "link": "https://www.variant.no",
+  "public_episode_baseurl": "https://mib.im/podcast-test/episodes",
+  "language": "nb-NO",
+  "subtitle": "Interne podcaster for Variant.",
+  "author": "Variant",
+  "description": "Interne podcaster for Variant, som selskapsstatus, oppdateringer, diskusjoner og mer.",
+  "owner": {
+    "name": "Variant",
+    "email": "post@variant.no"
+  },
+  "image": "https://mib.im/podcast-test/assets/podcast.jpg",
+  "category": ["Company", "Business", "Technology"],
+  "keywords": ["variant", "selskasstatus"],
+  "explicit": false
+}
