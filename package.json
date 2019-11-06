@@ -1,0 +1,27 @@
+{
+  "name": "@variant/podcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "node tools/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varianter/podcast.git"
+  },
+  "keywords": [
+    "podcast",
+    "variant"
+  ],
+  "author": "Mikael Brevik <mb@variant.no>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/varianter/podcast/issues"
+  },
+  "homepage": "https://github.com/varianter/podcast#readme",
+  "dependencies": {
+    "jstoxml": "^1.6.0",
+    "mp3-duration": "^1.1.0"
+  }
+}
