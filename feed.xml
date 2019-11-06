@@ -19,7 +19,7 @@
       <title>Variant</title>
       <link>https://podcast.variant.no</link>
     </image>
-    <itunes:explicit>yes</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>variant, selskasstatus</itunes:keywords>
     <itunes:category text="Company"/>
     <itunes:category text="Business"/>

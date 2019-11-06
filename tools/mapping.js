@@ -113,7 +113,7 @@ async function generateXML(metadata, episodes) {
             }
           },
           {
-            "itunes:explicit": metadata.explicit ? "no" : "yes"
+            "itunes:explicit": !metadata.explicit ? "no" : "yes"
           },
           {
             "itunes:keywords": metadata.keywords.join(", ")
