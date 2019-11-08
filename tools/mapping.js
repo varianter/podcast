@@ -112,7 +112,9 @@ async function generateXML(metadata, episodes) {
           {
             _name: "atom:link",
             _attrs: {
-              rel: metadata.public_feed_link
+              rel: "self",
+              type: "application/rss+xml",
+              href: metadata.public_feed_link
             }
           },
           {
