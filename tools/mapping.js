@@ -34,7 +34,10 @@ async function generateXML(metadata, episodes) {
           "itunes:summary": episode.description
         },
         {
-          "itunes:image": metadata.image
+          _name: "itunes:image",
+          _attrs: {
+            href: metadata.image
+          }
         },
         {
           _name: "enclosure",

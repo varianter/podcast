@@ -28,7 +28,7 @@
       <title>Status - November 2019</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Selskapsstatus for Variantdag november 2019.</itunes:summary>
-      <itunes:image>https://podcast.variant.no/assets/podcast.jpg</itunes:image>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
       <enclosure url="https://podcast.variant.no/episodes/2019-11-status.mp3" length="3701571" type="audio/x-m4a"/>
       <guid>https://podcast.variant.no/episodes/2019-11-status.mp3</guid>
       <pubDate>Fri, 08 Nov 2019 06:00:00 CET</pubDate>
