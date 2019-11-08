@@ -68,6 +68,7 @@ async function generateXML(metadata, episodes) {
       _name: "rss",
       _attrs: {
         "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "xmlns:atom": "http://www.w3.org/2005/Atom",
         version: "2.0"
       },
       _content: {
