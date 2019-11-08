@@ -14,6 +14,7 @@
       <itunes:email>post@variant.no</itunes:email>
     </itunes:owner>
     <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+    <atom:link rel="https://podcast.variant.no/feed.xml"/>
     <image>
       <url>https://podcast.variant.no/assets/podcast.jpg</url>
       <title>Variant</title>
@@ -21,7 +22,6 @@
     </image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>variant, selskasstatus</itunes:keywords>
-    <itunes:category text="Company"/>
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
@@ -31,7 +31,7 @@
       <itunes:image>https://podcast.variant.no/assets/podcast.jpg</itunes:image>
       <enclosure url="https://podcast.variant.no/episodes/2019-11-status.mp3" length="3701571" type="audio/x-m4a"/>
       <guid>https://podcast.variant.no/episodes/2019-11-status.mp3</guid>
-      <pubDate>Fri, 05 Nov 2019 06:00:00 CET</pubDate>
+      <pubDate>Fri, 08 Nov 2019 06:00:00 CET</pubDate>
       <itunes:duration>00:04:37</itunes:duration>
       <itunes:keywords>variant, selskasstatus</itunes:keywords>
     </item>

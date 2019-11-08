@@ -106,6 +106,12 @@ async function generateXML(metadata, episodes) {
             }
           },
           {
+            _name: "atom:link",
+            _attrs: {
+              rel: metadata.public_feed_link
+            }
+          },
+          {
             image: {
               url: metadata.image,
               title: metadata.title,
