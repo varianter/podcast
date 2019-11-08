@@ -14,7 +14,7 @@
       <itunes:email>post@variant.no</itunes:email>
     </itunes:owner>
     <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
-    <atom:link rel="https://podcast.variant.no/feed.xml"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://podcast.variant.no/feed.xml"/>
     <image>
       <url>https://podcast.variant.no/assets/podcast.jpg</url>
       <title>Variant</title>
