@@ -31,7 +31,7 @@
       <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
       <enclosure url="https://podcast.variant.no/episodes/2019-11-status.mp3" length="3701571" type="audio/x-m4a"/>
       <guid>https://podcast.variant.no/episodes/2019-11-status.mp3</guid>
-      <pubDate>Fri, 08 Nov 2019 06:00:00 CET</pubDate>
+      <pubDate>Fri, 08 Nov 2019 06:00:00 +0100</pubDate>
       <itunes:duration>00:04:37</itunes:duration>
       <itunes:keywords>variant, selskasstatus</itunes:keywords>
     </item>
