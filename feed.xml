@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Status - Desember 2019</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Selskapsstatus før Variantdag november 2019.</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2019-12-Selskapsstatus.mp3" length="16936335" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2019-12-Selskapsstatus.mp3</guid>
+      <pubDate>Fri, 06 Dec 2019 06:00:00 +0100</pubDate>
+      <itunes:duration>00:20:02</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Variantdag - Desember 2019</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Agenda og introduksjon til innhold for siste Variantdagen av 2019.</itunes:summary>
