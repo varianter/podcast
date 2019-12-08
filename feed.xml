@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Hvor reiser vi i 2020?</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Tonje og Anders har måtte legge hodene i bløt den siste uken. Hvor skal vi legge Variantdagen i 2020? De har kommet frem til et svar!</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/Hvor_reiser_vi_i_2020.mp3" length="8048787" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/Hvor_reiser_vi_i_2020.mp3</guid>
+      <pubDate>Mon, 09 Dec 2019 06:00:00 +0100</pubDate>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Status - Desember 2019</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Selskapsstatus før Variantdag november 2019.</itunes:summary>
