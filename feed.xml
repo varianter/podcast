@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Profilarbeid, flytting og Island - Mars 2020</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Det nærmer seg plan for flytting til nytt hus, men er alt i rute? Og hvordan gikk det egentlig i februar? Bare en måte å finne ut av det på!</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2020-03-variantdag.mp3" length="24429351" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2020-03-variantdag.mp3</guid>
+      <pubDate>Fri, 06 Mar 2020 06:00:00 +0100</pubDate>
+      <itunes:duration>00:16:57</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Lederkurs, Design Expo og rekruttering  - Februar 2020</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Ledergruppen er på veg til Stjørdal for kursing med Mind i ledergrupper og ledelse. Samtidig skjer det mye med rekruttering og kursing rundt omkring</itunes:summary>
