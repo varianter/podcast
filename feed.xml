@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Korona, kudos og rekruttering - April 2020</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Det har vært en bra måned med mye god innsats som er viktig for resten av året. Det er snakk om status, rekruttering, flytting og The Terminal.</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2020-04.mp3" length="23756732" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2020-04.mp3</guid>
+      <pubDate>Tue, 07 Apr 2020 06:00:00 +0200</pubDate>
+      <itunes:duration>00:16:31</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Profilarbeid, flytting og Island - Mars 2020</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Det nærmer seg plan for flytting til nytt hus, men er alt i rute? Og hvordan gikk det egentlig i februar? Bare en måte å finne ut av det på!</itunes:summary>
