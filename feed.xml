@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Nye koronatiltak - November 2020</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Etter nye retningslinjer fra FHI og Regjeringen snakker vi om hvordan det påvirker oss og hvordan framtiden vil se ut.</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2020-11.mp3" length="16182076" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2020-11.mp3</guid>
+      <pubDate>Fri, 06 Nov 2020 06:00:00 +0200</pubDate>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>OT, resultat, sommerjobb og dugnad - Mai 2020</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Podcasten har fått en helt ny målgruppe og må strammes opp. Det er snakk om månedens resultater, litt om økonomi og om rekruttering, sommerjobbprosjekter og ansvarlig, og ikke minst dugnad i nye lokaler!</itunes:summary>
