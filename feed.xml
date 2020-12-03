@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Oslo, 2020, bærekraft og bloggposter - Desember 2020</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Å hei hvor det går. 2020 er snart forbi og 2020 har vært et historisk år. Det skal 2021 bli også! Vi snakker Oslo, økonomisk status, mange bloggposter, rekruttering og bærekraft.</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2020-11.mp3" length="16182076" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2020-11.mp3</guid>
+      <pubDate>Fri, 04 Des 2020 06:00:00 +0200</pubDate>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Nye koronatiltak - November 2020</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Etter nye retningslinjer fra FHI og Regjeringen snakker vi om hvordan det påvirker oss og hvordan framtiden vil se ut.</itunes:summary>
