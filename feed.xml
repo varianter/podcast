@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Sommerjobbere, Variantdag i August og salg - Juni 2021</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Etter mye etterspørsel er vi tilbake! Denne gangen snakker vi om de nye fjesene på Variantdagen, månedens agenda og litt om kommende Variantdager!</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2021-06.mp3" length="24183802" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2021-06.mp3</guid>
+      <pubDate>Thu, 17 Jun 2021 06:00:00 +0200</pubDate>
+      <itunes:duration>00:16:48</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Varianttur, Winningtemp og salg - Mars 2021</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>I dagens sending: NTB rapporterer om viktig pressemelding fra Soskom, Menneskekjenneren Tore popper innom for å snakke om WinningTemp og vi snakker selvsagt om rekruttering og salg.</itunes:summary>
