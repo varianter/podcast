@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Bedpres med Abakus - September 2021</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Vi har hatt besøk av Abakus i Varianthuset og benyttet anledningen til å invetere en knippe studenter ned til Hvelvet. Der snakket smalt og bredt om utvikling.</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2021-09-abakus.mp3" length="71092970" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2021-09-abakus.mp3</guid>
+      <pubDate>Thu, 14 Oct 2021 06:00:00 +0200</pubDate>
+      <itunes:duration>00:49:21</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Rekruttering, rekruttering og rekruttering - Oktober 2021</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Storfint besøk med en førstegangsgjest: Marius! Han snakker om alt som skjer med rekruttering på tvers av hele konsernet. I tillegg er det premiære på en fantastisk nyhet som gjelder NTNU og rekruttering.</itunes:summary>
