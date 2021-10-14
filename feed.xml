@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Hybridkontor - Oktober 2021</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Even og Sondre sparker igang Variant Oslo sin første podcast med et brennhett tema: Hybridkontor. Hvor har vi vært og hvor skal vi?</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2021-10-hybridkontor.mp3" length="38925936" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2021-10-hybridkontor.mp3</guid>
+      <pubDate>Thu, 14 Oct 2021 07:00:00 +0200</pubDate>
+      <itunes:duration>00:29:47</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Bedpres med Abakus - September 2021</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Vi har hatt besøk av Abakus i Varianthuset og benyttet anledningen til å invetere en knippe studenter ned til Hvelvet. Der snakket smalt og bredt om utvikling.</itunes:summary>
