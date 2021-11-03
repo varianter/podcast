@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Ke' de går i? - November 2021</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Men hei tjommi, for en episode. Her er det snakk om endeløs rekruttering, utvidelser, konferanser, permisjoner og mye mer. Dette vil du ikke gå glipp av!</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2021-11.mp3" length="61133825" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2021-11.mp3</guid>
+      <pubDate>Thu, 04 Nov 2021 06:00:00 +0200</pubDate>
+      <itunes:duration>00:42:26</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Hybridkontor - Oktober 2021</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Even og Sondre sparker igang Variant Oslo sin første podcast med et brennhett tema: Hybridkontor. Hvor har vi vært og hvor skal vi?</itunes:summary>
