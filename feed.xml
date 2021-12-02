@@ -25,6 +25,17 @@
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>All time high! - Desember 2021</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Jula nærmer seg med stormskritt, som betyr årets siste Variantdag. Mikael har fått seg vikar, så denne gangen er det Simen som sitter bak spakene i Hvelvet Underground. På podcastagendaen står det rekruttering, etablering av selskaper og en liten selskapsstatus fra måneden som har gått. Uten å røpe for mye kommer også en gjest på besøk og får muligheten til å bruke favorittutrykket sitt!</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2021-12.mp3" length="33645657" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2021-12.mp3</guid>
+      <pubDate>Fri, 03 Des 2021 06:00:00 +0200</pubDate>
+      <itunes:duration>00:23:21</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
+    <item>
       <title>Foredrag - November 2021</title>
       <itunes:author>Variant</itunes:author>
       <itunes:summary>Sondre snakker med den anerkjente foredragsholderen Nikolai om dagens tema: Foredrag. Er det verdt stresset? Hva i alle dager kan man holde foredrag om? Få svaret i denne episoden!</itunes:summary>
