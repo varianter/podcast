@@ -4,7 +4,7 @@
     <title>Variant</title>
     <link>https://podcast.variant.no</link>
     <language>nb-NO</language>
-    <copyright>Copyright 2021</copyright>
+    <copyright>Copyright 2022</copyright>
     <itunes:subtitle>Interne podcaster for Variant.</itunes:subtitle>
     <itunes:author>Variant</itunes:author>
     <itunes:summary>Interne podcaster for Variant, som selskapsstatus, oppdateringer, diskusjoner og mer.</itunes:summary>
@@ -24,6 +24,17 @@
     <itunes:keywords>variant, selskasstatus</itunes:keywords>
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Norgesnytt – Februar 2022</title>
+      <itunes:author>Variant</itunes:author>
+      <itunes:summary>Lenge siden forrige oppdatering som gjør at det er mye å snakke om, fra Bergen til stortiltredelse i Oslo og nyheter i Trondheim. Her er det bare å lytte!</itunes:summary>
+      <itunes:image href="https://podcast.variant.no/assets/podcast.jpg"/>
+      <enclosure url="https://podcast.variant.no/episodes/2022-02.mp3" length="43066042" type="audio/x-m4a"/>
+      <guid>https://podcast.variant.no/episodes/2022-02.mp3</guid>
+      <pubDate>2022-02-03T17:00:00.000Z</pubDate>
+      <itunes:duration>00:29:56</itunes:duration>
+      <itunes:keywords>variant, selskasstatus</itunes:keywords>
+    </item>
     <item>
       <title>God Jul! - Desember 2021</title>
       <itunes:author>Variant</itunes:author>
